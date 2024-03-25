@@ -1,0 +1,3 @@
+[submodule "new-name"]
+	path = huggingface-repo
+	url = https://huggingface.co/hritik-mohanty/sentiment-analysis
